@@ -2,7 +2,7 @@
 
 Call center on web which is written using MVC design pattern, and includes three systems:
 
-![Sys Architecture](https://github.com/bargenish44/Cloud-project/blob/master/Pictures/System%20architecture.png?raw=true)
+![Sys Architecture](https://github.com/bargenish44/Cloud-project/blob/master/Pictures/System%20architecture.png?raw=true) {:height = "50%" wight = "50%"}
 
 1) CallCenterInputSystem - Node.js EXPRESS server which serves a JS, EJS (using EJS view engine) & CSS  UI for "answering (reciving) calls", all clients are updated in real time using socketIO, this system is used to create the data, this data is then passed to KAFKA message broker which is hosted on cloudkarafka cloud, the data is passed to two KAFKA topics - Mongo and Redis.
 
