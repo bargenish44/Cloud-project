@@ -1,6 +1,6 @@
 ## Big Data:
 
-represents a call center which is written using MVC design pattern, and includes three systems:
+Call center on web which is written using MVC design pattern, and includes three systems:
 
 ![Sys Architecture](https://github.com/bargenish44/Cloud-project/blob/master/Pictures/System%20architecture.png?raw=true)
 
